@@ -1,4 +1,4 @@
-
+//i have inserted this line
 import java.util.Scanner;
 
 public class PrimeNumber {
